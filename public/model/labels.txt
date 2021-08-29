@@ -1,0 +1,5 @@
+baño
+cocina
+exterior
+recamara
+sala
